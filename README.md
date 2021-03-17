@@ -34,3 +34,15 @@ Para poder utilizarlo hay que desplegarlo en un Tomcat y acceder a:
 http://localhost:8080/hello-java-0.1.0/greeting
 Con el parámetro name se puede indicar el nombre de a quien saluda:
 http://localhost:8080/hello-java-0.1.0/greeting?name=egc
+
+commit c0fa373b227d391c850ca2947409d953b9334011 (HEAD -> addBye, origin/addBye)
+Author: Jonatan Chub <chubjonathan@gmail.com>
+Date:   Tue Mar 16 21:53:48 2021 -0600
+
+    Se agrego bye.htm y GreetingController
+
+commit 1959e9cc43e53821b59007b28157a97a754ccc46 (origin/main, origin/HEAD, main)
+Author: Jonatan09 <chubjonathan@gmail.com>
+Date:   Tue Mar 16 20:33:28 2021 -0600
+
+    Initial commit
